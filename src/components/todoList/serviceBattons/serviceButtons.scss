@@ -1,0 +1,8 @@
+.buttonsWrapp {
+   display: flex;
+
+   .serviceButton:hover {
+      transform: scale(1.3);
+      color: red;
+   }
+}
